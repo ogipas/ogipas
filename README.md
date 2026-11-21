@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="aleksandar-grcic.jpg" alt="Aleksandar Grčić - Aleksandar Grcic IT Consulting" width="180" />
 
-<!--
-**ogipas/ogipas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aleksandar Grčić (Aleksandar Grcic)
 
-Here are some ideas to get you started:
+**IT Compliance, Operational Resilience & BCM Consultant | CISA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I advise financial institutions and regulated organizations on strengthening operational resilience, Business Continuity Management (BCM), ICT risk management, and regulatory compliance (DORA, EU AI Act, ISO standards).
+
+### Focus Areas
+* **Operational Resilience & BCM:** Business Impact Analysis (BIA), IT contingency planning, and resilience testing.
+* **IT Audit & Governance:** DORA compliance, ICT third-party risk, and information security frameworks.
+* **AI in Resilience:** Developing AI-driven prototypes for business continuity and governance data.
+
+### Connect
+* **LinkedIn:** [Aleksandar Grčić](www.linkedin.com/in/aleksandar-grcic)
+* **Consulting:** Aleksandar Grcic IT Consulting (Serbia)
